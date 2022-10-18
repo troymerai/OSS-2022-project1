@@ -4,7 +4,7 @@ int main()
 {
 
   printf("hello"\n);
-  printf("third OSS code\n");
+  printf("second OSS code\n");
 
   return 0;
 }
